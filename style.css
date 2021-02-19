@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(0, 0, 0, 0.466);
+}
+h1{
+    color:"#202c74"
+
+}
+*{
+    border:solid
+}
+
+.header{
+    
+    display:flex;
+    justify-content: space-between;
+}
+ 
+.menu{
+    text-align: justify;
+}
+
+.Grid{
+    
+ display:flex;
+ flex-wrap:wrap;
+ justify-content:space-evenly; 
+}
+
+.game{
+    display:flex;
+    justify-content:space-evenly
+}
+.social{
+    display:flex;
+    justify-content:flex-end ;
+}
+
+p,h2{
+    text-align: center;
+}
